@@ -1,2 +1,2 @@
-# collision-detection-algorithm
-colors of rectangles change when they come in contact of each other
+# p5.play-boilerplate
+Boiler plate for p5.play
